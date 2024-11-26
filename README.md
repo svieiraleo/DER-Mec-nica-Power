@@ -18,4 +18,4 @@ A representação conceitual do sistema pode ser expressa da seguinte forma:
 * Ordem de Serviço (1:N) Serviço
 * Ordem de Serviço (1:N) Peça
 * Equipe (1:N) Ordem de Serviço
-* Equipe (N:M) Mecânico
+* Equipe (1:N) Mecânico
