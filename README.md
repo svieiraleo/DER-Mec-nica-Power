@@ -10,6 +10,7 @@ DER de um exercício sobre Ordens de Serviço de uma Oficina Mecânica
 
 
 **Modelo Conceitual**
+
 A representação conceitual do sistema pode ser expressa da seguinte forma:
 
 * Cliente (1:N) Veículo
