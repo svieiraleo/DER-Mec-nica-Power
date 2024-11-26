@@ -9,8 +9,8 @@ DER de um exercício sobre Ordens de Serviço de uma Oficina Mecânica
 * Uma equipe é composta por vários mecânicos e é responsável pela execução de uma OS.
 
 
-**Modelo Conceitual
-A representação conceitual do sistema pode ser expressa da seguinte forma:**
+**Modelo Conceitual**
+A representação conceitual do sistema pode ser expressa da seguinte forma:
 
 * Cliente (1:N) Veículo
 * Veículo (1:N) Ordem de Serviço
